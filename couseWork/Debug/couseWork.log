@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\програмирование\программы\ооп лаб 1\cousework\cousework\cousework\main.cpp(61): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+d:\програмирование\программы\ооп лаб 1\cousework\cousework\cousework\main.cpp(66): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+  couseWork.vcxproj -> D:\програмирование\программы\ООП лаб 1\CouseWork\couseWork\Debug\couseWork.exe
